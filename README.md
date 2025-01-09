@@ -6,7 +6,7 @@ See the [vLEI developer prioritized backlog](https://github.com/orgs/GLEIF-IT/pr
 
 ## Meetings
 vLEI developer community meeting
-Thursdays 1pm UTC
+Thursdays 4pm UTC
 Join Zoom Meeting
 https://us06web.zoom.us/j/84801681469?pwd=hgWnod3bPAQDqoChTfzSJqEGBi7SVB.1
 Meeting ID: 848 0168 1469
