@@ -6,6 +6,8 @@ See the [vLEI developer prioritized backlog](https://github.com/orgs/GLEIF-IT/pr
 
 ## Meetings
 
+No call today 03/06/2025
+
 vLEI developer community meeting
 Thursdays 4pm UTC
 Join Zoom Meeting
