@@ -5,8 +5,6 @@ The vLEI developer community repo is used to collaborate on vLEI software, tasks
 See the [vLEI developer prioritized backlog](https://github.com/orgs/GLEIF-IT/projects/10) for the prioritized list of issues, etc.
 
 ## Meetings
-NO MEETING TODAY 03/20/2025
-
 vLEI developer community meeting
 Thursdays 4pm UTC
 Join Zoom Meeting
